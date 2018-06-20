@@ -11,7 +11,6 @@ Circle createCircle() {
   
   PVector spot = spots.get(r);
   
-  
   float x = spot.x;
   float y = spot.y;
   boolean valid = true;
